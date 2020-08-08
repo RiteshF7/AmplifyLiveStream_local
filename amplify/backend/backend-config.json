@@ -1,0 +1,9 @@
+{
+	"video": {
+		"livestreamritesh": {
+			"service": "video",
+			"serviceType": "livestream",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
